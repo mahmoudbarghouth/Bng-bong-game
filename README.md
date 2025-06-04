@@ -1,4 +1,4 @@
-# Bng-bong-game
+# Bing-bong-game
 
 
 ##project notes
